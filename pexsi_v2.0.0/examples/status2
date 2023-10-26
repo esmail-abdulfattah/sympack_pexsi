@@ -1,0 +1,12 @@
+********* LOGFILE OF P2 *********
+**********************************
+Shared node size 3, rank 2
+Matrix structure expanded
+METIS used
+Ordering done
+Supernodes found
+Relaxation done
+Permute time: 0.000400782
+Symbfact done
+Starting Send
+Send Done
